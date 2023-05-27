@@ -1,5 +1,5 @@
-# 💫 Hakkımda:
-Merhaba, ben Efe. 14 Yaşındayım ve kendi halimde projeler geliştirmeye çalışıyorum. HTML, CSS, Python ve C++ biliyorum.
+<h1>Selam, Ben Efe<img src="https://raw.githubusercontent.com/barbecue/barbecue/master/media/wave.gif" height="30" weight="30"></h1>
+Merhaba, ben Efe. 14 Yaşındayım ve kendi halimde projeler geliştirmeye çalışıyorum. HTML, CSS biliyorum ve Python, C++ öğrenmeye çalışıyorum.
 
 
 ## 🌐 Sosyal Medya:
