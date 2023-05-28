@@ -1,4 +1,4 @@
-<h1>Selam, Ben Efe<img src="https://raw.githubusercontent.com/barbecue/barbecue/master/media/wave.gif" height="30" weight="30"></h1>
+<h1>Selam, Ben Efe <img src="https://raw.githubusercontent.com/barbecue/barbecue/master/media/wave.gif" height="30" weight="30"></h1>
 Merhaba, ben Efe. 14 Yaşındayım ve kendi halimde projeler geliştirmeye çalışıyorum. HTML5 ve CSS3 biliyorum, Python ve C++ öğrenmeye çalışıyorum.
 
 
